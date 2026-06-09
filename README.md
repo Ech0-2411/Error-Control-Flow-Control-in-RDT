@@ -114,7 +114,7 @@ Client                        Server
 ## Development Environment
 
 - **OS:** Ubuntu 22.04 (x86)
-- **Platform:** [NSF CloudLab](https://cloudlab.us/) — project `UKY-CloudNetSys`
+- **Platform:** [NSF CloudLab](https://cloudlab.us/) 
 
 > Code **must** run on x86 Ubuntu 22.04 on NSF CloudLab before submission.
 
